@@ -1,0 +1,13 @@
+gradio[oauth]
+requests
+pandas
+python-dotenv
+smolagents[openai]
+ddgs
+markdownify
+yt-dlp
+opencv-python-headless
+youtube-transcript-api
+openpyxl
+tabulate
+chess
